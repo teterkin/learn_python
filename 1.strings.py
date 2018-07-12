@@ -1,0 +1,13 @@
+my_text = "Giraffe Academy"
+print(my_text)
+print(my_text.lower())
+print(my_text.upper())
+print(my_text.isupper())
+print(my_text.upper().isupper())
+print(my_text.__len__())
+print(len(my_text))
+print(my_text.index("A"))
+print(my_text.index("Acad"))
+print(my_text[0])
+print(my_text[3])
+print(my_text.replace("Giraffe", "Elephant"))

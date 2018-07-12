@@ -1,0 +1,20 @@
+print(2)
+print(2.567)
+print(-3.23)
+print(3 + 4)
+print(3 + 4.5)
+print(3 * 4 + 5)
+print(3 * (4 + 5))
+print(10 % 3)
+my_num = 5
+print(my_num * 3)
+print("Result => " + str(my_num * 3))
+negative_number = -5
+print(abs(negative_number))
+print(pow(5, 2))  # 5^2
+print(max(10, 20))
+print(min(10, 20))
+print(round(3.2))
+print(round(3.45))
+print(round(3.5))
+print(round(3.7))
